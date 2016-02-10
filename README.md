@@ -19,3 +19,11 @@ To build for the web, run
 ```bash
 $ npm run bundle-web
 ```
+
+To deploy to the web, run
+
+```bash
+$ npm run deploy-web
+```
+
+That will deploy it to gh-page branch of [github.com/rreusser/helpfinder](https://github.com/rreusser/helpfinder). You can see the result at [rreusser.github.io/helpfinder/](https://rreusser.github.io/helpfinder/)
