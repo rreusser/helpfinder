@@ -19,7 +19,3 @@ To build for the web, run
 ```bash
 $ npm run bundle-web
 ```
-
-## License
-
-[WTFPL](http://www.wtfpl.net/)
